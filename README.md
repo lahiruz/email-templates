@@ -3,6 +3,10 @@ This will contain email templates which compatible and tested with all most all 
 
 ## Samples
 
+#### Welcome Email
+
+- This template is designed for the people use wants to trigger email template when they wants to welcome users for their system or portal.
+
 #### User Rewarding Portal
 
 - This template is designed for the people use wants to create email templates for user rewarding portal.
