@@ -1,6 +1,13 @@
 # Email Templates
 This will contain email templates which compatible and tested with all most all the new browsers(IE 10+), Outlook, mobile email clients, etc...
 
+## Samples
+
+#### User Rewarding Portal
+
+- This template is designed for the people use wants to create email templates for user rewarding portal.
+This can be customized to trigger in scenarios such as dinner receipts, cashback pending/redeemable/confirmed, store receipts, payout pending/redeemable/confirmed, etc...
+
 ## Some Guidelines you can find in the Internet
 https://litmus.com/blog/understanding-gmail-and-css-part-1
 https://litmus.com/blog/understanding-gmail-and-css-part-2
