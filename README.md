@@ -1,5 +1,5 @@
-# Email Templates
-This will contain email templates which compatible and tested with all most all the new browsers(IE 10+), Outlook, mobile email clients, etc...
+# Email Marketing Templates
+This will contain email marketing templates which compatible and tested with all most all the new browsers(IE 10+), Outlook, mobile email clients, etc...
 
 ## Samples
 
