@@ -7,6 +7,7 @@ https://litmus.com/blog/understanding-gmail-and-css-part-2
 https://emailmonks.com/blog/email-coding/step-step-guide-create-html-email/
 https://emailmonks.com/blog/email-design/complete-guide-to-create-your-first-email-template/
 https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770
+https://medium.com/@jasemiller/a-fix-for-outlook-image-issues-in-html-email-campaigns-b8dd1c8f7d16
 
 ## Email Client CSS Support
 https://templates.mailchimp.com/resources/email-client-css-support/
