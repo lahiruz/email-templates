@@ -3,11 +3,11 @@ This will contain email marketing templates which compatible and tested with all
 
 ## Samples
 
-#### Welcome Email
+#### [Welcome Email](https://github.com/lahiruz/email-templates/tree/master/Welcome%20Email)
 
 - This template is designed for the people use wants to trigger email template when they wants to welcome users for their system or portal.
 
-#### User Rewarding Portal
+#### [User Rewarding Portal](https://github.com/lahiruz/email-templates/tree/master/User%20Rewarding%20Portal)
 
 - This template is designed for the people use wants to create email templates for user rewarding portal.
 This can be customized to trigger in scenarios such as dinner receipts, cashback pending/redeemable/confirmed, store receipts, payout pending/redeemable/confirmed, etc...
@@ -20,7 +20,7 @@ This can be customized to trigger in scenarios such as dinner receipts, cashback
 - https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770
 - https://medium.com/@jasemiller/a-fix-for-outlook-image-issues-in-html-email-campaigns-b8dd1c8f7d16
 
-## Email Client CSS Support
+## Email Client CSS Support 
 - https://templates.mailchimp.com/resources/email-client-css-support/
 - https://www.campaignmonitor.com/css/style-element/style-in-head/
 https://www.emailonacid.com/blog/article/email-development/12_things_you_must_know_when_developing_for_gmail_and_gmail_mobile_apps-2/
